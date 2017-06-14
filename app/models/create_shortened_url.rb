@@ -1,0 +1,2 @@
+class CreateShortenedUrl < ApplicationRecord
+end
